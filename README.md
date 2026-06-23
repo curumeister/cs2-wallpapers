@@ -1,6 +1,8 @@
 # CS2 Wallpapers
 
-Collection of Counter-Strike 2 wallpapers created from in-game screenshots.
+Community-made Counter-Strike 2 wallpapers created from in-game screenshots.
+
+Wallpapers comunitários de Counter-Strike 2 criados a partir de capturas de tela do jogo.
 
 ## Categories
 
